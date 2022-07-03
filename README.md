@@ -1,6 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to Golf Scraper
+Golf Scaper is a web application which shows the availability, prices and other information of golf related gear in the stores of a selected area.
 
-## Getting Started
+## Development
 
 First, run the development server:
 
