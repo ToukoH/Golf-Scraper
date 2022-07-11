@@ -18,6 +18,7 @@
         "semi": 0,
         "indent": 0,
         "space-before-blocks": "warn",
-        "no-magic-numbers": "error"
+        "no-magic-numbers": "warn",
+        "no-unused-vars": "warn"
     }
 }
